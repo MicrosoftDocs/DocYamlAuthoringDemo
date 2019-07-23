@@ -1,9 +1,0 @@
-### YamlMime:ModuleUnit
-uid: DocYamlAuthoringDemo.sample-module-3.unit-4
-title: Sample Unit 4 with PowerShell
-metadata:
-  description: Sample Unit 4 Description
-interactive: powershell
-durationInMinutes: 12
-content: |
-  [!include[](includes/unit-1.md)]

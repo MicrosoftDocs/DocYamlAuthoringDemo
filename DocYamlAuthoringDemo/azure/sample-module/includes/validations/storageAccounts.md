@@ -1,1 +1,0 @@
-Please make sure that you have named the resource group "groupA" and the storage account "docsproxyppea427".

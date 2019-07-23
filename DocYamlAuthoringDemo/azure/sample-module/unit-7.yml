@@ -1,9 +1,0 @@
-### YamlMime:ModuleUnit
-uid: DocYamlAuthoringDemo.sample-module.unit-7
-title: Sample Unit 7 with try.dot.net
-metadata:
-  description: Use the .NET REPL
-durationInMinutes: 11
-interactive: csharp
-content: |
-  [!include[](includes/unit-7.md)]
