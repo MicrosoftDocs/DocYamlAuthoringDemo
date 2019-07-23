@@ -3,6 +3,10 @@ title: Microsoft Learn
 summary: The skills required to advance your career and earn your spot at the top do not come easily. Now there’s a more rewarding approach to hands-on learning that helps you achieve your goals faster. Earn points, levels, and achieve more!
 isHome: true
 brand: azure
+card:
+  link:
+    url: /learn/modules/welcome-to-azure/
+    text: edit
 hero:
   backgroundColor: 'linear-gradient(174.2deg, #005BA1 0%, #154D83 77.72%, #274169 100%)'
   supertitle: Welcome to
