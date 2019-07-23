@@ -1,0 +1,572 @@
+### YamlMime:EmailOptInPreferences
+preferences:
+- id: preference-module
+  countries:
+  - id: country-canada
+    country: Canada
+    countryCode: CA
+    email: opt-in
+  - id: country-usa
+    country: United States
+    countryCode: US
+    email: notice
+  - id: country-argentina
+    country: Argentina
+    countryCode: AR
+    email: opt-in
+  - id: country-bolivia
+    country: Bolivia
+    countryCode: BO
+    email: notice
+  - id: country-brazil
+    country: Brazil
+    countryCode: BR
+    email: notice
+  - id: country-mexico
+    country: Mexico
+    countryCode: MX
+    email: opt-out
+  - id: country-chile
+    country: Chile
+    countryCode: CL
+    email: opt-out
+  - id: country-colombia
+    country: Colombia
+    countryCode: CO
+    email: opt-in
+  - id: country-costa-rica
+    country: Costa Rica
+    countryCode: CR
+    email: opt-in
+  - id: country-dominican-republic
+    country: Dominican Republic
+    countryCode: DO
+    email: notice
+  - id: country-ecuador
+    country: Ecuador
+    countryCode: EC
+    email: notice
+  - id: country-el-salvador
+    country: El Salvador
+    countryCode: SV
+    email: notice
+  - id: country-guatemala
+    country: Guatemala
+    countryCode: GT
+    email: opt-out
+  - id: country-honduras
+    country: Honduras
+    countryCode: HN
+    email: notice
+  - id: country-jamaica
+    country: Jamaica
+    countryCode: JM
+    email: notice
+  - id: country-panama
+    country: Panama
+    countryCode: PA
+    email: opt-out
+  - id: country-paraguay
+    country: Paraguay
+    countryCode: PY
+    email: notice
+  - id: country-trinidad-and-tobago
+    country: Trinidad and Tobago
+    countryCode: TT
+    email: notice
+  - id: country-uruguay
+    country: Uruguay
+    countryCode: UY
+    email: opt-in
+  - id: country-peru
+    country: Peru
+    countryCode: PE
+    email: opt-in
+  - id: country-australia
+    country: Australia
+    countryCode: AU
+    email: opt-in
+  - id: country-china
+    country: China
+    countryCode: CN
+    email: opt-out
+  - id: country-hong-kong
+    country: Hong Kong
+    countryCode: HK
+    email: opt-out
+  - id: country-indonesia
+    country: Indonesia
+    countryCode: ID
+    email: opt-out
+  - id: country-macau
+    country: Macau
+    countryCode: MO
+    email: notice
+  - id: country-malaysia
+    country: Malaysia
+    countryCode: MY
+    email: opt-in
+  - id: country-japan
+    country: Japan
+    countryCode: JP
+    email: opt-out
+  - id: country-north-korea
+    country: North Korea
+    countryCode: KP
+    email: opt-in
+  - id: country-south-korea
+    country: South Korea
+    countryCode: KR
+    email: opt-in
+  - id: country-singapore
+    country: Singapore
+    countryCode: SG
+    email: opt-in
+  - id: country-new-zealand
+    country: New Zealand
+    countryCode: NZ
+    email: opt-in
+  - id: country-taiwan
+    country: Taiwan
+    countryCode: TW
+    email: opt-in
+  - id: country-philippines
+    country: Philippines
+    countryCode: PH
+    email: opt-in
+  - id: country-thailand
+    country: Thailand
+    countryCode: TH
+    email: opt-out
+  - id: country-vietnam
+    country: Vietnam
+    countryCode: VN
+    email: opt-in
+  - id: country-armenia
+    country: Armenia
+    countryCode: AM
+    email: opt-in
+  - id: country-austria
+    country: Austria
+    countryCode: AT
+    email: double-opt-in
+  - id: country-azerbaijan
+    country: Azerbaijan
+    countryCode: AZ
+    email: opt-in
+  - id: country-belgium
+    country: Belgium
+    countryCode: BE
+    email: opt-in
+  - id: country-bulgaria
+    country: Bulgaria
+    countryCode: BG
+    email: opt-in
+  - id: country-croatia
+    country: Croatia
+    countryCode: HR
+    email: opt-in
+  - id: country-cyprus
+    country: Cyprus
+    countryCode: CY
+    email: opt-in
+  - id: country-czech-republic
+    country: Czech Republic
+    countryCode: CZ
+    email: opt-out
+  - id: country-denmark
+    country: Denmark
+    countryCode: DK
+    email: opt-in
+  - id: country-estonia
+    country: Estonia
+    countryCode: EE
+    email: opt-in
+  - id: country-finland
+    country: Finland
+    countryCode: FI
+    email: opt-in
+  - id: country-france
+    country: France
+    countryCode: FR
+    email: opt-in
+  - id: country-georgia
+    country: Georgia
+    countryCode: GE
+    email: opt-in
+  - id: country-germany
+    country: Germany
+    countryCode: DE
+    email: double-opt-in
+  - id: country-greece
+    country: Greece
+    countryCode: GR
+    email: double-opt-in
+  - id: country-hungary
+    country: Hungary
+    countryCode: HU
+    email: opt-in
+  - id: country-iceland
+    country: Iceland
+    countryCode: IS
+    email: opt-out
+  - id: country-ireland
+    country: Ireland
+    countryCode: IE
+    email: opt-out
+  - id: country-italy
+    country: Italy
+    countryCode: IT
+    email: opt-in
+  - id: country-kazakhstan
+    country: Kazakhstan
+    countryCode: KZ
+    email: opt-out
+  - id: country-latvia
+    country: Latvia
+    countryCode: LV
+    email: opt-in
+  - id: country-liechtenstein
+    country: Liechtenstein
+    countryCode: LI
+    email: opt-in
+  - id: country-lithuania
+    country: Lithuania
+    countryCode: LT
+    email: opt-in
+  - id: country-luxembourg
+    country: Luxembourg
+    countryCode: LU
+    email: opt-in
+  - id: country-north-macedonia
+    country: North Macedonia
+    countryCode: MK
+    email: opt-out
+  - id: country-malta
+    country: Malta
+    countryCode: MT
+    email: opt-in
+  - id: country-monaco
+    country: Monaco
+    countryCode: MC
+    email: opt-in
+  - id: country-netherlands
+    country: Netherlands
+    countryCode: NL
+    email: opt-in
+  - id: country-norway
+    country: Norway
+    countryCode: NO
+    email: opt-in
+  - id: country-poland
+    country: Poland
+    countryCode: PL
+    email: opt-in
+  - id: country-portugal
+    country: Portugal
+    countryCode: PT
+    email: opt-in
+  - id: country-romania
+    country: Romania
+    countryCode: RO
+    email: opt-in
+  - id: country-russia
+    country: Russia
+    countryCode: RU
+    email: double-opt-in
+  - id: country-serbia
+    country: Serbia
+    countryCode: RS
+    email: opt-in
+  - id: country-slovakia
+    country: Slovakia
+    countryCode: SK
+    email: opt-in
+  - id: country-slovenia
+    country: Slovenia
+    countryCode: SI
+    email: opt-in
+  - id: country-spain
+    country: Spain
+    countryCode: ES
+    email: opt-in
+  - id: country-sweden
+    country: Sweden
+    countryCode: SE
+    email: opt-in
+  - id: country-switzerland
+    country: Switzerland
+    countryCode: CH
+    email: opt-in
+  - id: country-turkey
+    country: Turkey
+    countryCode: TR
+    email: opt-in
+  - id: country-turkmenistan
+    country: Turkmenistan
+    countryCode: TM
+    email: notice
+  - id: country-ukraine
+    country: Ukraine
+    countryCode: UA
+    email: opt-in
+  - id: country-united-kingdom
+    country: United Kingdom
+    countryCode: GB
+    email: opt-in
+  - id: country-yemen
+    country: Yemen
+    countryCode: YE
+    email: notice
+  - id: country-algeria
+    country: Algeria
+    countryCode: DZ
+    email: opt-out
+  - id: country-angola
+    country: Angola
+    countryCode: AO
+    email: opt-in
+  - id: country-bahrain
+    country: Bahrain
+    countryCode: BH
+    email: notice
+  - id: country-benin
+    country: Benin
+    countryCode: BJ
+    email: opt-in
+  - id: country-botswana
+    country: Botswana
+    countryCode: BW
+    email: notice
+  - id: country-burkina-faso
+    country: Burkina Faso
+    countryCode: BF
+    email: opt-in
+  - id: country-burundi
+    country: Burundi
+    countryCode: BI
+    email: notice
+  - id: country-cameroon
+    country: Cameroon
+    countryCode: CM
+    email: notice
+  - id: country-cape-verde
+    country: Cape Verde
+    countryCode: CV
+    email: opt-in
+  - id: country-central-african-republic
+    country: Central African Republic
+    countryCode: CF
+    email: notice
+  - id: country-chad
+    country: Chad
+    countryCode: TD
+    email: notice
+  - id: country-cote-divoire
+    country: ​Côte d'Ivoire
+    countryCode: CI
+    email: notice
+  - id: country-democratic-republic-of-the-congo
+    country: Democratic Republic of the Congo
+    countryCode: CD
+    email: opt-out
+  - id: country-egypt
+    country: Egypt
+    countryCode: EG
+    email: opt-out
+  - id: country-equatorial-guinea
+    country: Equatorial Guinea
+    countryCode: GQ
+    email: notice
+  - id: country-eritrea
+    country: Eritrea
+    countryCode: ER
+    email: opt-out
+  - id: country-ethiopia
+    country: Ethiopia
+    countryCode: ET
+    email: opt-out
+  - id: country-gabon
+    country: Gabon
+    countryCode: GA
+    email: notice
+  - id: country-gambia
+    country: Gambia
+    countryCode: GM
+    email: notice
+  - id: country-ghana
+    country: Ghana
+    countryCode: GH
+    email: opt-in
+  - id: country-guinea
+    country: Guinea
+    countryCode: GN
+    email: notice
+  - id: country-guinea-bissau
+    country: Guinea-Bissau
+    countryCode: GW
+    email: opt-out
+  - id: country-india
+    country: India
+    countryCode: IN
+    email: notice
+  - id: country-iran
+    country: Iran
+    countryCode: IR
+    email: opt-out
+  - id: country-iraq
+    country: Iraq
+    countryCode: IQ
+    email: opt-out
+  - id: country-israel
+    country: Israel
+    countryCode: IL
+    email: opt-in
+  - id: country-jordan
+    country: Jordan
+    countryCode: JO
+    email: opt-out
+  - id: country-kenya
+    country: Kenya
+    countryCode: KE
+    email: notice
+  - id: country-kuwait
+    country: Kuwait
+    countryCode: KW
+    email: opt-in
+  - id: country-lebanon
+    country: Lebanon
+    countryCode: LB
+    email: opt-out
+  - id: country-lesotho
+    country: Lesotho
+    countryCode: LS
+    email: notice
+  - id: country-liberia
+    country: Liberia
+    countryCode: LR
+    email: opt-out
+  - id: country-libya
+    country: Libya
+    countryCode: LY
+    email: notice
+  - id: country-madagascar
+    country: Madagascar
+    countryCode: MG
+    email: opt-in
+  - id: country-malawi
+    country: Malawi
+    countryCode: MW
+    email: notice
+  - id: country-mali
+    country: Mali
+    countryCode: ML
+    email: notice
+  - id: country-mauritania
+    country: Mauritania
+    countryCode: MR
+    email: notice
+  - id: country-mauritius
+    country: Mauritius
+    countryCode: MU
+    email: opt-in
+  - id: country-morocco
+    country: Morocco
+    countryCode: MA
+    email: opt-in
+  - id: country-mozambique
+    country: Mozambique
+    countryCode: MZ
+    email: opt-in
+  - id: country-namibia
+    country: Namibia
+    countryCode: NA
+    email: opt-out
+  - id: country-niger
+    country: Niger
+    countryCode: NE
+    email: notice
+  - id: country-nigeria
+    country: Nigeria
+    countryCode: NG
+    email: opt-out
+  - id: country-oman
+    country: Oman
+    countryCode: OM
+    email: notice
+  - id: country-pakistan
+    country: Pakistan
+    countryCode: PK
+    email: opt-in
+  - id: country-qatar
+    country: Qatar
+    countryCode: QA
+    email: notice
+  - id: country-republic-of-the-congo
+    country: Republic of the Congo
+    countryCode: CG
+    email: notice
+  - id: country-rwanda
+    country: Rwanda
+    countryCode: RW
+    email: notice
+  - id: country-sao-tome-and-principe
+    country: Sao Tome and Principe
+    countryCode: ST
+    email: opt-in
+  - id: country-saudi-arabia
+    country: Saudi Arabia
+    countryCode: SA
+    email: opt-in
+  - id: country-senegal
+    country: Senegal
+    countryCode: SN
+    email: opt-out
+  - id: country-seychelles
+    country: Seychelles
+    countryCode: SC
+    email: notice
+  - id: country-south-africa
+    country: South Africa
+    countryCode: ZA
+    email: opt-out
+  - id: country-sudan
+    country: Sudan
+    countryCode: SD
+    email: notice
+  - id: country-swaziland
+    country: Swaziland
+    countryCode: SZ
+    email: opt-out
+  - id: country-syria
+    country: Syria
+    countryCode: SY
+    email: notice
+  - id: country-tanzania
+    country: Tanzania
+    countryCode: TZ
+    email: notice
+  - id: country-togo
+    country: Togo
+    countryCode: TG
+    email: notice
+  - id: country-tunisia
+    country: Tunisia
+    countryCode: TN
+    email: opt-in
+  - id: country-uganda
+    country: Uganda
+    countryCode: UG
+    email: notice
+  - id: country-united-arab-emirates
+    country: United Arab Emirates
+    countryCode: AE
+    email: opt-in
+  - id: country-zambia
+    country: Zambia
+    countryCode: ZM
+    email: notice
+  - id: country-zimbabwe
+    country: Zimbabwe
+    countryCode: ZW
+    email: notice

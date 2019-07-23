@@ -1,0 +1,76 @@
+### YamlMime:ModuleUnit
+uid: learn-wwl.introduction-to-business-applications.6-knowledge-check
+title: Knowledge check
+metadata:
+  title: Knowledge check
+  description: Let's review the key points about connecting and communicating with Microsoft 364
+  ms.date: 1/28/2019
+  author: Randall-Knapp
+  ms.author: rknapp
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+durationInMinutes: 2
+content: |
+  [!include[](includes/6-knowledge-check.md)]
+quiz:
+  questions:
+  - content: "Microsoft Business Applications addresses four key benefits, including: turn single interactions into long-term engagements; 
+  offer connected, intelligent services;
+  move from fixed processes to the modern experiences that consumers expect.
+  What is the fourth benefit?"
+    choices:
+    - content: "Present 360-degree views of customers and operations, rather than siloed data."
+      isCorrect: true
+      explanation: "Correct. Businesses need a set of solutions that turn single interactions into ongoing engagements, offer connected intelligent services rather than static products, present 360-degree views of customers and operations, rather than siloed data, and move from fixed processes to the type of highly tailored modern experiences consumers expect."
+    - content: "Identify security breaches and breach attempts, with rapid response."
+      isCorrect: false
+      explanation: "Incorrect. While this is a challenge that is addressed by Microsoft, it is not one of the challenges for Microsoft Business Applications."
+    - content: "Reduce the complexity of managing today’s modern IT environment."
+      isCorrect: false
+      explanation: "Incorrect. While this is a challenge that is addressed by Microsoft, it is not one of the challenges for Microsoft Business Applications."
+    - content: "Allow any developer with any language to become an Azure developer."
+      isCorrect: false
+      explanation: "Incorrect. While this is a challenge that is addressed by Microsoft, it is not one of the challenges for Microsoft Business Applications."
+  - content: "What are the four key differentiators that make Microsoft Business Applications stand out from competitive offerings?"
+    choices:
+    - content: "Secure, compliant, private, and transparent."
+      isCorrect: false
+      explanation: "Incorrect. While these may be important differentiators for Microsoft, they are not the differentiators for Microsoft Business Applications."
+    - content: "Modern, unified, intelligent, and adaptable."
+      isCorrect: true
+      explanation: "Correct. Microsoft Business Applications is modern, unified, intelligent, and adaptable."
+    - content: "Inspire employees, people-centric design, flexible form factors, and work anywhere."
+      isCorrect: false
+      explanation: "Incorrect. While these may be important differentiators for Microsoft, they are not the differentiators for Microsoft Business Applications."
+    - content: "Intelligent, trusted, hybrid, and productive."
+      isCorrect: false
+      explanation: "Incorrect. While these may be important differentiators for Microsoft, they are not the differentiators for Microsoft Business Applications."
+  - content: "Which of the following are core business functions that are normally managed by CRM? "
+    choices:
+    - content: "Assembly, master planning and project accounting."
+      isCorrect: false
+      explanation: "Incorrect. Assembly, master planning, and project accounting fall under ERP, not CRM."
+    - content: "Marketing relationships, sales relationships, service relationships and customer relationships."
+      isCorrect: true
+      explanation: "Correct. The core business functions managed by CRM include marketing relationships, sales relationships, service relationships, and customer relationships."
+    - content: "Customers, products, people, and data."
+      isCorrect: false
+      explanation: "Incorrect. Dynamics 365 connects customers, products, people, and data, but these are not core business functions."
+    - content: "Supply chain management, general ledger, procurement and sourcing."
+      isCorrect: false
+      explanation: "Incorrect. Supply chain management, general ledger, procurement, and sourcing fall under ERP, not CRM."
+  - content: "Which of the following best states how Microsoft Dynamics 365 addresses key business challenges?"
+    choices:
+    - content: "With Microsoft PowerApps, Power BI, and Microsoft Flow, Microsoft Dynamics 365 automatically changes important processes."
+      isCorrect: false
+      explanation: "Incorrect. Power Apps, Power BI, and Microsoft Flow functions can help automate processes, but do still require business decisions to be implemented."
+    - content: "Microsoft Dynamics 365 breaks down silos created by traditional ERP and CRM solutions for a comprehensive view of customers and operations."
+      isCorrect: true
+      explanation: "Correct. Microsoft Dynamics 365 presents a 360-degree view of customers and operations."
+    - content: "Microsoft Dynamics 365 empowers employees to continuously learn, collaborate more effectively within teams, work securely across any device, and contribute creatively with their best work."
+      isCorrect: false
+      explanation: "Incorrect. Dynamics 365 does support these capabilities, but there’s a better answer related to key business challenges."
+    - content: "Microsoft Dynamics 365 makes use of public cloud and artificial intelligence (AI) technology to enable ubiquitous computing for every type of intelligent application and system."
+      isCorrect: false
+      explanation: "Incorrect. Dynamics 365 does support these capabilities, but there’s a better answer related to key business challenges."

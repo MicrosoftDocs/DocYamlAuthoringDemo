@@ -1,0 +1,9 @@
+### YamlMime:ModuleUnit
+uid: DocYamlAuthoringDemo.sample-module-3.unit-3
+title: Sample Unit 3 with Azure Portal
+interactive: csharp
+metadata:
+  description: Sample Unit 3 Description
+durationInMinutes: 12
+content: |
+  [!include[](includes/unit-1.md)]

@@ -1,0 +1,8 @@
+### YamlMime:ModuleAvailability
+disableAllLabs: false
+disableAllSandboxes: false
+# disabledModules:
+#   - "learn.welcome-to-azure"
+#   - "learn-wwl.introduction-to-business-applications"
+# disabledLabs:
+#   - "DocYamlAuthoringDemo.sample-module"

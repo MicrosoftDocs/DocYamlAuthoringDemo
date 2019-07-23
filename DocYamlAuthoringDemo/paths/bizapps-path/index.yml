@@ -1,0 +1,22 @@
+### YamlMime:LearningPath
+uid: DocYamlAuthoringDemo.bizapps-path
+title: Sample Bizapps Learning Path
+summary: This is the summary of the Sample Bizapps Learning Path
+cardDescription: This is the card description of the Sample Bizapps Learning Path
+iconUrl: /DocYamlAuthoringDemo/achievements/administer-infrastructure-resources-in-azure.svg
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+- m365-ems
+prerequisites: This is the prerequisites text for the Sample Bizapps Learning Path
+metadata:
+  title: Sample Bizapps Learning Path Page Title
+  description: Sample Bizapps Learning Path Page Description
+modules:
+- DocYamlAuthoringDemo.sample-module-2
+- DocYamlAuthoringDemo.sample-module-3
+trophy:
+  uid: DocYamlAuthoringDemo.bizapps-path.trophy

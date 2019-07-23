@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-wwl.sfa.Digital-transformation-.2-What-is-digital-transformation
+title: What is digital transformation?
+metadata:
+  title: What is digital transformation?
+  description: This is a description.
+  ms.date: 1/10/2019
+  author: maargued
+  ms.author: maargued
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+durationInMinutes: 15
+content: |
+  [!include[](includes/2-What-is-digital-transformation.md)]

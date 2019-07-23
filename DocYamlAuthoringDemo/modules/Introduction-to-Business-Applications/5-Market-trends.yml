@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-wwl.introduction-to-business-applications.5-market-trends
+title: Market trends
+metadata:
+  title: Market trends
+  description: To enhance your experience in the office, in a conference room, or on the go, Microsoft Teams is supported by a portfolio of Teams devices across personal and shared spaces.
+  ms.date: 1/28/2019
+  author: Randall-Knapp
+  ms.author: rknapp
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+durationInMinutes: 4
+content: |
+  [!include[](includes/5-market-trends.md)]

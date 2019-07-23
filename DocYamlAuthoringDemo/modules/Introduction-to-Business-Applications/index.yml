@@ -1,0 +1,38 @@
+### YamlMime:Module
+uid: learn-wwl.introduction-to-business-applications
+metadata:
+  title: Introduction to Business Applications
+  description: Microsoft Business Applications helps companies unleash their potential by breaking down data silos to connect customers, products, people, and operations.
+  ms.date: 1/28/2019
+  author: Randall-knapp
+  ms.author: rknapp
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+title: Introduction to Business Applications
+summary: Microsoft Business Applications helps companies unleash their potential by breaking down data silos to connect customers, products, people, and operations.
+abstract: |
+  In this module, you will:
+   - Learn the strategic value of Microsoft Business Applications.
+   - Learn how to identify the core business functions that are managed by CRM and ERP.
+   - Learn the benefits of an integrated Microsoft solution for business applications.
+prerequisites: |
+   - Be a human being.
+   - Enjoy either the company of cats or dogs - or both.
+   - Be amazed by how long tortoises can live.
+iconUrl: /learn/achievements/get-started-with-powerapps.svg
+levels:
+  - beginner
+roles:
+  - business-user
+products:
+  - azure
+units:
+- learn-wwl.introduction-to-business-applications.1-introduction
+- learn-wwl.introduction-to-business-applications.2-what-are-crm-and-erp
+- learn-wwl.introduction-to-business-applications.3-the-evolution-of-business-applications-from-crm-and-erp-to-an-integrated-solution
+- learn-wwl.introduction-to-business-applications.4-the-value-of-microsoft-business-applications
+- learn-wwl.introduction-to-business-applications.5-market-trends
+- learn-wwl.introduction-to-business-applications.6-knowledge-check
+- learn-wwl.introduction-to-business-applications.7-summary-and-resources
+badge:
+  uid: learn-wwl.introduction-to-business-applications.badge

@@ -1,0 +1,21 @@
+### YamlMime:Module
+uid: DocYamlAuthoringDemo.sample-module-2
+title: Sample Module 2
+summary: This is the summary of the Sample Module
+cardDescription: This is the card description of the Sample Module
+iconUrl: /DocYamlAuthoringDemo/achievements/access-data-with-cosmos-db-and-sql-api.svg
+ratingEnabled: true
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+metadata:
+  title: Sample Module Page Title
+  description: Sample Module Page Description
+abstract: This is the abstract of the Sample Module
+units:
+- DocYamlAuthoringDemo.sample-module-2.unit-1
+badge:
+  uid: DocYamlAuthoringDemo.sample-module-2.badge

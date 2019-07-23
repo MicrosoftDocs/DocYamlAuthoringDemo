@@ -1,0 +1,14 @@
+{
+    "redirections": [
+        {
+            "source_path": "DocYamlAuthoringDemo/paths/index.md",
+            "redirect_url": "/DocYamlAuthoringDemo/browse/",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "DocYamlAuthoringDemo/modules/index.md",
+            "redirect_url": "/DocYamlAuthoringDemo/browse/",
+            "redirect_document_id": false
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+### YamlMime:LearningPath
+uid: DocYamlAuthoringDemo.azure-path
+title: Sample Azure Learning Path
+summary: This is the summary of the Sample Azure Learning Path
+cardDescription: This is the card description of the Sample Azure Learning Path. There is not a <a href="https://docs.microsoft.com">Link</a> here.
+iconUrl: /DocYamlAuthoringDemo/achievements/administering-containers.svg
+levels:
+- beginner
+- intermediate
+roles:
+- business-user
+- developer
+products:
+- azure
+- azure-clis
+- windows
+prerequisites: |
+   - Enjoy a hot cup of tea on a cold winter's morning.
+   - Have bathed or showered at least once in the last two days.
+   - Like polka dots more than stripes.
+metadata:
+  title: Sample Azure Learning Path Page Title
+  description: Sample Azure Learning Path Page Description
+  brand: azure
+modules:
+- DocYamlAuthoringDemo.sample-module
+- DocYamlAuthoringDemo.sample-module-2
+trophy:
+  uid: DocYamlAuthoringDemo.azure-path.trophy

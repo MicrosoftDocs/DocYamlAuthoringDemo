@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="66px" height="36px" viewBox="0 0 66 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>instructor_icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Learn" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Learn-Azure" transform="translate(-1159.000000, -2545.000000)">
+            <g id="Group-9" transform="translate(0.000000, 2352.000000)">
+                <g id="instructor_led-training" transform="translate(1047.000000, 147.000000)">
+                    <g id="instructor_icon" transform="translate(112.000000, 46.000000)">
+                        <g id="learning_plus_icon" fill="#FFFFFF">
+                            <g id="computer">
+                                <path d="M9,30 L57,30 L57,3 C57,2.44771525 56.5522847,2 56,2 L10,2 C9.44771525,2 9,2.44771525 9,3 L9,30 Z M10,0 L56,0 C57.6568542,-2.22044605e-16 59,1.34314575 59,3 L59,32 L7,32 L7,3 C7,1.34314575 8.34314575,2.22044605e-16 10,0 Z" id="Rectangle-5" fill-rule="nonzero"></path>
+                                <rect id="Rectangle-6" x="0" y="33" width="66" height="3" rx="1"></rect>
+                            </g>
+                        </g>
+                        <g id="121693" transform="translate(22.000000, 9.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                            <circle id="Oval" cx="10.5" cy="5.5" r="5.5"></circle>
+                            <path d="M10.5,13 C4.7010069,13 0,17.0294345 0,22 L21,22 C21,17.0294345 16.2989931,13 10.5,13 Z" id="Shape"></path>
+                        </g>
+                        <g id="Group" transform="translate(41.000000, 6.000000)">
+                            <path d="M0.99,0 L12.01,0 C12.5567619,-1.00438532e-16 13,0.443238098 13,0.99 L13,8.01 C13,8.5567619 12.5567619,9 12.01,9 L4.5,9 L1.5,10.5 L2.5,9 L0.99,9 C0.443238098,9 -1.55085584e-16,8.5567619 -2.22044605e-16,8.01 L-1.11022302e-16,0.99 C-1.77981324e-16,0.443238098 0.443238098,2.11460835e-16 0.99,1.11022302e-16 Z" id="Rectangle-3" fill="#FFFFFF"></path>
+                            <path d="M2.5,4.5 L10.5,4.5" id="Line" stroke="#005BA1" stroke-width="0.99" stroke-linecap="round"></path>
+                            <path d="M2.5,2.5 L10.5,2.5" id="Line" stroke="#005BA1" stroke-width="0.99" stroke-linecap="round"></path>
+                            <path d="M2.5,6.5 L6.5,6.5" id="Line" stroke="#005BA1" stroke-width="0.99" stroke-linecap="round"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

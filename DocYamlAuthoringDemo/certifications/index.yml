@@ -1,0 +1,109 @@
+### YamlMime:CertificationHome  
+
+title: Microsoft role-based certifications 
+summary: Earn a role-based certification that shows you are keeping pace with today’s technical roles and requirements. Explore certification based on your role and start boosting your skills.
+
+roles:  
+  - name: developer
+    summary: Developers implement applications and services by partnering with cloud solution architects and clients. 
+    url: docs.microsoft.com/role-developer
+  - name: administrator
+    summary: Business Analyst build enterprise-scale data solutions, and leverage business intelligence data.
+    url: docs.microsoft.com/role-developer
+  - name: solution-architect
+    summary: Developers implement applications and services by partnering with cloud solution architects and clients.
+    url: docs.microsoft.com/role-developer
+  - name: ai-engineer
+    summary: Developers implement applications and services by partnering with cloud solution architects and clients.
+    url: docs.microsoft.com/role-developer
+  - name: functional-consultant
+    summary: Developers implement applications and services by partnering with cloud solution architects and clients.
+    url: docs.microsoft.com/role-developer
+  - name: business-analyst
+    summary: Developers implement applications and services by partnering with cloud solution architects and clients.
+    url: docs.microsoft.com/role-developer
+  - name: business-user
+    summary: Developers implement applications and services by partnering with cloud solution architects and clients.
+    url: docs.microsoft.com/role-developer
+  - name: data-scientist
+    summary: Developers implement applications and services by partnering with cloud solution architects and clients.
+    url: docs.microsoft.com/role-developer
+  - name: data-engineer
+    summary: Developers implement applications and services by partnering with cloud solution architects and clients.
+    url: docs.microsoft.com/role-developer
+
+certificationsSection: 
+  title: Explore Microsoft’s most sought after role-based certifications
+  summary: "Microsoft certifications are orgainzed into 3 levels: Fundamentals, Associate and Expert. Each certification path provides training options to help build skills."
+
+  tiers: 
+    - title: Fundamentals
+      summary: A helpful starting point for individuals just starting in technology or thinking about a career change.
+      certifications: 
+        - uid: certification.azure-devops-engineer-expert
+        - uid: certification.mock-certification-2
+    - title: Associate
+      summary: Two years of comprehensive working experience. It is helpful to have related Fundamental certifications but it is not required.
+      certifications: 
+        - uid: certification.azure-devops-engineer-expert
+        - uid: certification.mock-certification-3
+    - title: Expert
+      summary: Two to five years of deep technical experience. Many Expert certifications require a specific Associate level certification.
+      certifications: 
+        - uid: certification.azure-devops-engineer-expert
+        - uid: certification.mock-certification-3
+
+trainingSection: 
+  title: Self-paced or instructor-led training options
+  summary: Microsoft understands everyone has different learning preferences so we provide certifictaions and training options throughout your certification journey.
+  items: 
+  - image:  
+      alt: Lorem 
+      src: https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2CfYv?ver=1a88&q=90&m=6&h=585&w=1040&b=%23FFFFFFFF&l=f&o=t&aim=true
+    title: Learn at your own pace
+    summary: With Microsoft Learn, anyone can master core concepts at their speed and on their schedule. Whether it’s a single module to learn about a core task or exploring a topic fully through a collection of related modules.
+    browseLinks: 
+    - text: Browse all learning paths
+      url: docs.microsoft.com/lorem
+    - text: Browse all modules 
+      url: docs.microsoft.com/lorem
+  - image:  
+      alt: Lorem 
+      src: https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2CfYv?ver=1a88&q=90&m=6&h=585&w=1040&b=%23FFFFFFFF&l=f&o=t&aim=true
+    title: Learn in a structured environment
+    summary: Microsoft Certified Trainers have completed rigorous training and have met stringent technical certification requirements offering a breadth of solutions to suit your learning needs.
+    browseLinks: 
+    - text: Browse all courses
+      url: docs.microsoft.com/lorem
+
+resourcesSection: 
+  title: Learning resources
+  items: 
+    - title: Find a Microsoft Learning Partner
+      summary: Our worldwide partner network delivers flexible, solutions-based, customized training in Microsoft technologies.
+      url: docs.microsoft.com/lorem 
+    - title: Support for certifications and exams
+      summary: Contact the team through our Microsoft Certification support forums.
+      url: docs.microsoft.com/lorem 
+    - title: Register for an Exam
+      summary: View from an entire exam catalog, find the nearest location and schedule your exam.
+      url: docs.microsoft.com/lorem 
+
+statisticsSection: 
+  title: Why get certified 
+  summary: Certifications give you a professional edge with evidence of industry recognized role-based skills. 
+  video: 
+    iframeTitle: lorem ipsum orm
+    iframeSrc: https://www.microsoft.com/en-us/videoplayer/embed/RWrutI?pid=RWrutI-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false 
+    title: High-growth opportunity
+    summary: Upon earning a certification, 23% of Microsoft certified technologists reported receiving up to a 20% salary increase. What’s more, certified employees are often entrusted with supervising their peers—putting them on the fast track for a promotion. — 2017 Pearson VUE Value of Certification white paper.
+  items: 
+    - title: 38% 
+      summary: of IT positions will be cloud related by 2021.
+      note: IDC/Microsoft, Cloud Skills and Organizational Influence*\:\ How Cloud Skills Are Accelerating the Careers of IT Professional, May 2017
+    - title: 35% 
+      summary: of IT professionals say they are more influential during cloud deployments than counterparts during deployments of other technologies. 
+      note: IDC/Microsoft, Cloud Skills and Organizational Influence*\:\ How Cloud Skills Are Accelerating the Careers of IT Professional, May 2017
+    - title: 36.9% 
+      summary: of IT professionals claimed certification helped them perform complex tasks more confidently.
+      note: Pearson VUE, The Value of IT Certification Survey, January 2017

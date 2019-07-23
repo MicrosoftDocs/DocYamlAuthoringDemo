@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>pluralsight_icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Learn" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Learn-Azure" transform="translate(-857.000000, -2543.000000)" fill="#FFFFFF">
+            <g id="Group-9" transform="translate(0.000000, 2352.000000)">
+                <g id="Pluralsight" transform="translate(733.000000, 147.000000)">
+                    <g id="pluralsight_icon" transform="translate(124.000000, 44.000000)">
+                        <g id="Group-3">
+                            <path d="M20.9995,40 C10.5225,40 1.9995,31.477 1.9995,21 C1.9995,10.523 10.5225,2 20.9995,2 C31.4765,2 39.9995,10.523 39.9995,21 C39.9995,31.477 31.4765,40 20.9995,40 M20.9995,0 C9.4015,0 -0.0005,9.402 -0.0005,21 C-0.0005,32.598 9.4015,42 20.9995,42 C32.5985,42 41.9995,32.598 41.9995,21 C41.9995,9.402 32.5985,0 20.9995,0" id="Fill-1"></path>
+                        </g>
+                        <path d="M30.1539536,21 L18.0256589,28.4196078 L18.0256589,25.2465116 L24.9670099,21 L18.0256589,16.7534884 L18.0256589,13.5803922 L30.1539536,21 Z M18.0256589,19.1059736 L21.1209635,21 L18.0256589,22.8940264 L18.0256589,19.1059736 Z M13.0073311,25.9637939 L13.0073311,16.0362061 L16.0183278,17.8780666 L16.0183278,24.1219334 L13.0073311,25.9637939 Z M16.0183278,15.5255814 L11,12.455814 L11,29.544186 L16.0183278,26.4744186 L16.0183278,32 L34,21 L16.0183278,10 L16.0183278,15.5255814 Z" id="Fill-4"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

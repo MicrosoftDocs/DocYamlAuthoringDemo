@@ -1,0 +1,11 @@
+### YamlMime:ModuleUnit
+uid: DocYamlAuthoringDemo.sample-module-2.unit-1
+title: Sample Unit 1 in Module 2
+metadata:
+  title: Sample Unit 1 in Module 2 Page Title
+  description: Sample Unit 1 Description
+durationInMinutes: 12
+interactive: powershell
+azureSandbox: true
+content: |
+  [!include[](includes/unit-1.md)]

@@ -1,0 +1,67 @@
+### YamlMime:Course
+title: Course two
+metadata:
+  title: Course two - Page Title
+  description: Course two - page description
+uid: course.course-two
+features:
+- Hands on labs
+- Software Assurance Training Voucher (SATV) redemption
+courseNumber: '5000'
+timeToComplete:
+  hours: 13
+  days: 2
+  weeks: 3
+learningPartnersLink: https://www.bing.com
+retirementDate: 11/13/2020
+langs:
+- English
+- Japanese
+levels:
+- beginner
+- intermediate
+roles:
+- developer
+- administrator
+relatedExams:
+- uid: exam.AZ-400
+- uid: exam.AZ-4001
+summary: |
+  Veggies es bonus vobis, proinde vos postulo essum magis kohlrabi welsh onion daikon amaranth tatsoi tomatillo melon azuki bean garlic.
+
+  Gumbo beet greens corn soko endive gumbo gourd. Parsley shallot courgette tatsoi pea sprouts fava bean collard greens dandelion okra wakame tomato. Dandelion cucumber earthnut pea peanut soko zucchini.
+prerequisitesSection: |
+  ### Something
+  In the words of Abraham Lincoln:
+  > Pardon my french
+  Here's an idea: why don't we take `SuperiorProject` and turn it into `**Reasonable**Project`.
+  1.  Item 1
+      1. A corollary to the above item.
+      2. Yet another point to consider.
+  2.  Item 2
+      * A corollary that does not need to be ordered.
+      * This is indented four spaces
+      * You might want to consider making a new list.
+  3.  Item 3
+
+  [Link text](www.bing.com)
+outlineSection: |
+  ### Module 1: Learning to Fly
+
+  1.  This is a list item with two paragraphs. Lorem ipsum dolor
+      sit amet, consectetuer adipiscing elit. Aliquam hendrerit
+      mi posuere lectus.
+
+      Vestibulum enim wisi, viverra nec, fringilla in, laoreet
+      vitae, risus. Donec sit amet nisl. Aliquam semper ipsum
+      sit amet velit.
+
+  2.  Suspendisse id sem consectetuer libero luctus adipiscing.
+
+  #### An h4 heading 
+  1. We are still doing lists I guess.
+  2. We are still doing lists I guess.
+
+  ### Module 2: Learning to turn water into wine
+  - Turn water
+  - Into wine

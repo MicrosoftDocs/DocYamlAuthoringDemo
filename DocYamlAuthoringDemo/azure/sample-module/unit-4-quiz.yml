@@ -1,0 +1,49 @@
+##YamlMime:ModuleUnit
+uid: DocYamlAuthoringDemo.sample-module.unit-4-quiz
+title: Sample Unit 4 with Knowledge Check
+metadata:
+  title: Sample Unit 4 with Knowledge Check - SEO Title
+  description: Knowledge Check page description
+  zone_pivot_groups: azure-interface
+durationInMinutes: 13
+content: |
+  [!include[](includes/unit-4-quiz.md)]
+quiz:
+  questions:
+  - content: 'What this markdown file talking about:'
+    choices:
+    - content: |
+        [!include[](includes/answer-code-block.md)]
+      explanation: Why this answer is correct.
+      isCorrect: true
+    - content:  |
+        [!include[](includes/answer-code-inline.md)]
+      explanation: Why this answer is incorrect
+      isCorrect: false
+  - content: 'What this markdown file talking about:'
+    choices:
+    - content: Brainstorming of markdown file format for knowledge check.
+      explanation: Why this answer is incorrect
+      isCorrect: false
+    - content: Brainstorming of markdown file format for knowledge check. Part 2
+      explanation: Why this answer is incorrect
+      isCorrect: false
+    - content: Brainstorming of markdown file format for knowledge check. Part 3
+      explanation: Why this answer is correct.
+      isCorrect: true
+    - content: Brainstorming of markdown file format for knowledge check. Part 4
+      explanation: Why this answer is incorrect
+      isCorrect: false
+  - content: 'What this markdown file talking about:'
+    choices:
+    - content: Brainstorming of markdown file format for knowledge check.
+      explanation: Why this answer is correct.
+      isCorrect: true
+    - content: Brainstorming of markdown file format for knowledge check. Part 2
+      explanation: Why this answer is incorrect
+      isCorrect: false
+    - content: Brainstorming of markdown file format for knowledge check. Part 3
+      explanation: Why this answer is incorrect
+      isCorrect: false
+    - content: Brainstorming of markdown file format for knowledge check. Part 4
+      isCorrect: false

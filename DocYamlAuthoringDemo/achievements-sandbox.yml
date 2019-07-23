@@ -1,0 +1,12 @@
+### YamlMime:Achievements
+achievements:
+- uid: DocYamlAuthoringDemo.you-love-DocYamlAuthoringDemo.badge
+  type: badge
+  title: Well done, you work in Learn sandbox
+  summary: You're an engineer on Learn.
+  iconUrl: /DocYamlAuthoringDemo/achievements/welcome-to-azure.svg
+- uid: DocYamlAuthoringDemo.that-is-so-meta.badge
+  type: badge
+  title: That is so meta. You've got a meta badge.
+  summary: You're a meta engineer on Learn.
+  iconUrl: /DocYamlAuthoringDemo/achievements/welcome-to-azure.svg

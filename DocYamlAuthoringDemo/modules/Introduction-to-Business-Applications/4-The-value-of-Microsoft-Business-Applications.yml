@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-wwl.introduction-to-business-applications.4-the-value-of-microsoft-business-applications
+title: The value of Microsoft Business Applications
+metadata:
+  title: The value of Microsoft Business Applications
+  description: Microsoft 365 can become your entire office phone system, providing dial-tone to your Microsoft Teams users, along with full call control and voicemail.
+  ms.date: 1/28/2019
+  author: Randall-Knapp
+  ms.author: rknapp
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+durationInMinutes: 2
+content: |
+  [!include[](includes/4-the-value-of-microsoft-business-applications.md)]

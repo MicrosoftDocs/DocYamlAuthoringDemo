@@ -1,0 +1,1 @@
+During the build process, Packer creates `az group create` temporary Azure resources for the base VM.

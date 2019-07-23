@@ -1,0 +1,28 @@
+### YamlMime:Module
+uid: DocYamlAuthoringDemo.sample-module
+title: Sample Module
+summary: ""
+cardDescription: This is the card description of the Sample Module. Theres should not be a <a href="https://docs.micrsoft.com">Link</a>
+iconUrl: /DocYamlAuthoringDemo/achievements/add-and-size-disks-in-azure-virtual-machines.svg
+ratingEnabled: true
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+- azure-iot-central
+metadata:
+  title: Sample Module Page Title
+  description: Sample Module Page Description
+prerequisites: This is the prerequisites text for the Sample Module
+abstract: This is the abstract of the Sample Module
+units:
+- DocYamlAuthoringDemo.sample-module.unit-1
+- DocYamlAuthoringDemo.sample-module.unit-2
+- DocYamlAuthoringDemo.sample-module.unit-3-task-validation
+- DocYamlAuthoringDemo.sample-module.unit-4-quiz
+- DocYamlAuthoringDemo.sample-module.unit-5
+- DocYamlAuthoringDemo.sample-module.unit-6
+badge:
+  uid: DocYamlAuthoringDemo.sample-module.badge

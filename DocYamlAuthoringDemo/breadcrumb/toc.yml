@@ -1,3 +1,10 @@
 - name: Docs
-  tocHref: /
-  topicHref: /
+  href: /
+  items:
+  - name: Learn
+    href: /DocYamlAuthoringDemo/
+    items:
+    - name: Browse
+      href: /DocYamlAuthoringDemo/browse/
+    - name: Certifications
+      href: /DocYamlAuthoringDemo/certifications/landing/

@@ -1,0 +1,44 @@
+### YamlMime:Module
+uid: DocYamlAuthoringDemo.welcome-to-azure
+metadata:
+  title: Introduction to Azure
+  description: Get started with Azure by creating your first virtual machine in the cloud.
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  #ms.learn-contact: smmark
+  ms.prod: learning-azure
+title: Introduction to Azure
+summary: Get started with Azure by creating and configuring your first virtual machine in the cloud.
+abstract: |
+  In this module, you will:
+  - Learn what Microsoft Azure is and how it relates to cloud computing.
+  - See how easy it is to launch your first virtual machine, add a web server, and scale up your server when you need more power.
+  - Start building the foundational skills you need to change the world or land the job of your dreams.
+prerequisites: None
+iconUrl: /DocYamlAuthoringDemo/achievements/welcome-to-azure.svg
+ratingEnabled: true
+levels:
+- beginner
+roles:
+- administrator
+- developer
+- solution-architect
+- functional-consultant
+products:
+- azure
+- azure-clis
+- azure-virtual-machines
+- sql-server
+- office-sp-framework
+- office-365
+units:
+- DocYamlAuthoringDemo.welcome-to-azure.1-introduction
+- DocYamlAuthoringDemo.welcome-to-azure.2-what-is-azure
+- DocYamlAuthoringDemo.welcome-to-azure.3-create-a-vm
+- DocYamlAuthoringDemo.welcome-to-azure.4-add-web-server
+- DocYamlAuthoringDemo.welcome-to-azure.5-scale-up
+- DocYamlAuthoringDemo.welcome-to-azure.6-summary
+badge:
+  uid: DocYamlAuthoringDemo.welcome-to-azure.badge

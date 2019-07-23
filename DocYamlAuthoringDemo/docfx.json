@@ -1,49 +1,92 @@
 {
-  "build": {
-    "content": [
-      {
-        "files": [
-          "**/*.md",
-          "**/*.yml"
-        ],
-        "exclude": [
-          "**/obj/**",
-          "**/includes/**",
-          "_themes/**",
-          "_themes.pdf/**",
-          "**/docfx.json",
-          "README.md",
-          "LICENSE",
-          "LICENSE-CODE",
-          "ThirdPartyNotices"
-        ]
-      }
-    ],
-    "resource": [
-      {
-        "files": [
-          "**/*.png",
-          "**/*.jpg"
-        ],
-        "exclude": [
-          "**/obj/**",
-          "**/includes/**",
-          "_themes/**",
-          "_themes.pdf/**",
-          "**/docfx.json"
-        ]
-      }
-    ],
-    "overwrite": [],
-    "externalReference": [],
-    "globalMetadata": {
-      "breadcrumb_path": "/DocYamlAuthoringDemo/breadcrumb/toc.json",
-      "extendBreadcrumb": true,
-      "feedback_system": "None"
-    },
-    "fileMetadata": {},
-    "template": [],
-    "dest": "DocYamlAuthoringDemo",
-    "markdownEngineName": "markdig"
-  }
+	"build": {
+		"content": [
+			{
+				"src": "azure",
+				"files": [
+					"**/*.yml"
+				],
+				"dest": "modules"
+			},
+			{
+				"src": "bizapps",
+				"files": [
+					"**/*.yml"
+				],
+				"dest": "modules"
+			},
+			{
+				"files": [
+					"**/*.md",
+					"**/*.yml"
+				],
+				"exclude": [
+					"**/obj/**",
+					"**/includes/**",
+					"_themes/**",
+					"_themes.pdf/**",
+					"README.md",
+					"LICENSE",
+					"LICENSE-CODE",
+					"ThirdPartyNotices",
+					"azure/**",
+					"biz-apps/**"
+				]
+			}
+		],
+		"resource": [
+			{
+				"files": [
+					"**/*.png",
+					"**/*.svg",
+					"**/*.jpg"
+				],
+				"exclude": [
+					"**/obj/**",
+					"**/includes/**",
+					"_themes/**",
+					"_themes.pdf/**"
+				]
+			}
+		],
+		"overwrite": [],
+		"externalReference": [],
+		"globalMetadata": {
+			"toc_preview": true,
+			"search_preview": true,
+			"show_latex": true,
+			"breadcrumb_path": "/DocYamlAuthoringDemo/breadcrumb/toc.json",
+			"extendBreadcrumb": true,
+			"feedback_system": "GitHub",
+			"feedback_github_repo": "MicrosoftDocs/learn",
+			"uhfHeaderId": "MSDocsHeader-Learn",
+			"localization_scopes": [
+				"de-de",
+				"zh-cn"
+			]
+		},
+		"fileMetadata": {
+			"brand": {
+				"azure/**/*.yml": "azure"
+			},
+			"feedback_system": {
+				"support/troubleshoot.md": false
+			},
+			"localization_scopes": {
+				"bizapps/**/*.yml": [
+					"es-es"
+				]
+			},
+			"sandbox-disabled": {
+				"azure/welcome-to-azure/**/*.yml": "true"
+			}
+		},
+		"template": [],
+		"dest": "DocYamlAuthoringDemo",
+		"markdownEngineName": "markdig",
+		"exportRawModel": true,
+		"rawModelOutputFolder": "../_model/en-us/DocYamlAuthoringDemo",
+		"exportViewModel": true,
+		"viewModelOutputFolder": "../_viewmodel/en-us/DocYamlAuthoringDemo"
+	}
 }

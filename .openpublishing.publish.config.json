@@ -1,34 +1,84 @@
 {
-  "docsets_to_publish": [
+    "docsets_to_publish": [
     {
-      "docset_name": "DocYamlAuthoringDemo",
-      "build_source_folder": "DocYamlAuthoringDemo",
-      "build_output_subfolder": "DocYamlAuthoringDemo",
+        "docset_name": "DocYamlAuthoringDemo",
+        "build_source_folder": "DocYamlAuthoringDemo",
+        "build_output_subfolder": "DocYamlAuthoringDemo",
+        "locale": "en-us",
+        "monikers": [],
+        "moniker_ranges": [],
+        "open_to_public_contributors": true,
+        "type_mapping": {
+            "Achievements": "Toc",
+            "Certification": "Content",
+            "CertificationHome": "Content",
+            "Conceptual": "Content",
+	    "ContentBrowser": "Content",
+            "ContextObject": "Toc",
+	    "Course": "Content",
+	    "EmailOptInPreferences": "Toc",
+	    "Examination": "Content",
+	    "ExamPricing": "Toc",
+            "LearningPath": "Content",
+	    "LearnProduct": "Content",
+            "Module": "Content",
+	    "ModuleAvailability": "Toc",
+            "ModuleUnit": "Content",
+	    "Role": "Content",
+	    "SurveyQuestions": "Toc",
+            "ZonePivotGroups": "Toc"
+        },
+        "build_entry_point": "docs",
+        "template_folder": "_themes",
+        "customized_tasks": {
+            "docset_postbuild": [
+            ]
+        }
+    },
+    {
+      "docset_name": "learn-home",
+      "build_source_folder": "learn-home",
+      "build_output_subfolder": "learn-home",
       "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],
-      "open_to_public_contributors": true,
+      "open_to_public_contributors": false,
       "type_mapping": {
-        "Conceptual": "Content"
+            "Achievements": "Toc",
+            "Certification": "Content",
+            "CertificationHome": "Content",
+            "Conceptual": "Content",
+			"Exam": "Content",
+            "LearnProduct": "Content",
+            "LearningPath": "Content",
+            "Module": "Content",
+            "ModuleUnit": "Content",
+            "ZonePivotGroups": "Toc",
+            "ContentBrowser": "Content",
+            "SurveyQuestions": "Toc"
       },
       "build_entry_point": "docs",
       "template_folder": "_themes"
     }
-  ],
-  "notification_subscribers": [],
-  "sync_notification_subscribers": [],
-  "branches_to_filter": [],
-  "skip_source_output_uploading": false,
-  "need_preview_pull_request": false,
-  "contribution_branch_mappings": {},
-  "dependent_repositories": [
-    {
-      "path_to_root": "_themes",
-      "url": "https://github.com/Microsoft/templates.docs.msft",
-      "branch": "master",
-      "branch_mapping": {}
-    }
-  ],
-  "branch_target_mapping": {},
-  "need_generate_pdf_url_template": false
+    ],
+    "notification_subscribers": [],
+    "branches_to_filter": [],
+    "skip_source_output_uploading": false,
+    "need_preview_pull_request": true,
+    "contribution_branch_mappings": {},
+    "dependent_repositories": [{
+        "path_to_root": "_themes",
+        "url": "https://github.com/Microsoft/templates.docs.msft",
+        "branch": "develop",
+        "branch_mapping": {}
+    }],
+    "dependent_packages": [{
+        "id": "Microsoft.OpenPublishing.CommonPlugins",
+        "nuget_feed": "https://www.myget.org/F/op-dev/api/v2",
+        "path_to_root": "_dependentPackages/CommonPlugins",
+        "target_framework": "net45",
+        "version": "latest-prerelease"
+    }],
+    "branch_target_mapping": {},
+    "need_generate_pdf_url_template": false
 }

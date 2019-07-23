@@ -1,0 +1,34 @@
+### YamlMime:SurveyQuestions
+questions:
+- id: rating-module
+  answers:
+  - id: rating-module-content-is-great
+    title: Content is great
+    scores: [4, 5]
+  - id: rating-module-i-like-the-format
+    title: I like the format
+    scores: [4, 5]
+  - id: rating-module-i-like-hands-on-learning
+    title: I like hands on learning
+    scores: [4, 5]
+  - id: rating-module-i-like-experience-points-and-badges
+    title: I like experience points and badges
+    scores: [4, 5]
+  - id: rating-module-appropriate-level-of-difficulty
+    title: Other(Please specify down below)
+    scores: [4, 5]
+  - id: rating-module-content-is-incorrect
+    title: Content is incorrect
+    scores: [1, 2, 3]
+  - id: rating-module-hard-to-use-sandbox
+    title: Hard to use Sandbox
+    scores: [1, 2, 3]
+  - id: rating-module-no-customer-support
+    title: No customer support
+    scores: [1, 2, 3]
+  - id: rating-module-i-expected-something-different
+    title: I expected something different
+    scores: [1, 2, 3]
+  - id: rating-module-other-please-specify-down-below
+    title: Other(Please specify down below)
+    scores: [1, 2, 3]

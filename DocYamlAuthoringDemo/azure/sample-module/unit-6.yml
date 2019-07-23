@@ -1,0 +1,9 @@
+### YamlMime:ModuleUnit
+uid: DocYamlAuthoringDemo.sample-module.unit-6
+title: Sample Unit 6 with .NET
+metadata:
+  description: Sample Unit 6 Description
+durationInMinutes: 11
+interactive: csharp
+content: |
+  [!include[](includes/unit-2.md)]

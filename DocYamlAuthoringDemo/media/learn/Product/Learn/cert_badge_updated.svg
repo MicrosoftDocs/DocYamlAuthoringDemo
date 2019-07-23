@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="55px" viewBox="0 0 56 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>cert_badge_updated</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-18.1%" y="-12.0%" width="134.0%" height="134.8%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.144729393 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Learn" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Learn-vB_1.0" transform="translate(-532.000000, -2670.000000)">
+            <g id="cert_badge_updated" filter="url(#filter-1)" transform="translate(561.136890, 2694.731310) rotate(-10.000000) translate(-561.136890, -2694.731310) translate(537.636890, 2671.731310)">
+                <path d="M25.3734586,0.105470848 L8.45625649,2.62727302 C7.58911373,2.75653567 6.90364094,3.42913832 6.75796757,4.29367558 L2.83759392,27.5601743 C1.1668485,37.4466358 16.4767964,43.4421385 18.7343402,45.0980392 C21.4156828,44.2823246 37.3772387,42.8629811 39.0398342,32.9846767 L42.8264546,11.3640811 C42.9721996,10.5319163 42.5860014,9.69671374 41.8575789,9.26876449 L26.6977846,0.362363685 C26.2986784,0.127888187 25.831287,0.0372235855 25.3734586,0.105470848 Z" id="Shape" stroke="#FFFFFF" stroke-width="1.8" fill-rule="nonzero"></path>
+                <path d="M46,20.2412189 C39.5171132,17.8822633 30.5186024,14.8505071 24.3738815,13.795622 C18.1549291,12.7573493 7.30086592,12.4138082 0.4468215,12.5051762 L1.21438703,25.1531707 C9.87473196,25.0368841 18.3533862,25.5714675 22.15569,26.2193496 C25.9579939,26.8672318 32.7955424,28.9437772 40.9445146,31.909084 L46,20.2412189 Z" id="Shape" stroke="#FFFFFF" stroke-width="1.215" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <polygon id="Star" fill="#FFFFFF" transform="translate(12.893446, 32.276079) rotate(10.000000) translate(-12.893446, -32.276079) " points="12.8934459 33.7996618 11.1097325 34.7412875 11.4503914 32.7468923 10.007337 31.3344537 12.0015892 31.0434753 12.8934459 29.2289146 13.7853025 31.0434753 15.7795547 31.3344537 14.3365003 32.7468923 14.6771592 34.7412875"></polygon>
+                <polygon id="Star" fill="#FFFFFF" transform="translate(20.410080, 36.238126) rotate(10.000000) translate(-20.410080, -36.238126) " points="20.41008 37.7617083 18.6263667 38.703334 18.9670256 36.7089388 17.5239712 35.2965002 19.5182234 35.0055219 20.41008 33.1909611 21.3019367 35.0055219 23.2961889 35.2965002 21.8531345 36.7089388 22.1937934 38.703334"></polygon>
+                <polygon id="Star" fill="#FFFFFF" transform="translate(27.960361, 34.918950) rotate(10.000000) translate(-27.960361, -34.918950) " points="27.9603613 36.442532 26.1766479 37.3841577 26.5173068 35.3897624 25.0742524 33.9773238 27.0685046 33.6863455 27.9603613 31.8717847 28.8522179 33.6863455 30.8464701 33.9773238 29.4034157 35.3897624 29.7440746 37.3841577"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="39px" height="38px" viewBox="0 0 39 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Instructor_led_icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Learn" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Learn-vB_1.0" transform="translate(-859.000000, -2672.000000)" fill="#FFFFFF">
+            <g id="Group-9" transform="translate(0.000000, 2570.000000)">
+                <g id="Instructor_led_icon" transform="translate(859.000000, 102.000000)">
+                    <polygon id="Fill-1" points="23.9993939 37.2858297 26.8580953 30.144127 34.7139682 38 36.8574892 35.8574892 39 33.7149784 31.1421068 25.8580953 38.2858297 23.0004041 14 13"></polygon>
+                    <path d="M16.65,25.791 C15.953,25.924 15.235,26 14.5,26 C8.159,26 3,20.841 3,14.5 C3,8.159 8.159,3 14.5,3 C20.84,3 26,8.159 26,14.5 C26,15.119 25.937,15.723 25.841,16.315 L28.687,17.487 C28.89,16.522 29,15.524 29,14.5 C29,6.505 22.495,0 14.5,0 C6.504,0 0,6.505 0,14.5 C0,22.495 6.504,29 14.5,29 C15.639,29 16.744,28.854 17.808,28.604 L16.65,25.791 Z" id="Fill-2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
