@@ -34,31 +34,6 @@
             "docset_postbuild": [
             ]
         }
-    },
-    {
-      "docset_name": "learn-home",
-      "build_source_folder": "learn-home",
-      "build_output_subfolder": "learn-home",
-      "locale": "en-us",
-      "monikers": [],
-      "moniker_ranges": [],
-      "open_to_public_contributors": false,
-      "type_mapping": {
-            "Achievements": "Toc",
-            "Certification": "Content",
-            "CertificationHome": "Content",
-            "Conceptual": "Content",
-			"Exam": "Content",
-            "LearnProduct": "Content",
-            "LearningPath": "Content",
-            "Module": "Content",
-            "ModuleUnit": "Content",
-            "ZonePivotGroups": "Toc",
-            "ContentBrowser": "Content",
-            "SurveyQuestions": "Toc"
-      },
-      "build_entry_point": "docs",
-      "template_folder": "_themes"
     }
     ],
     "notification_subscribers": [],
